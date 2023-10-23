@@ -3,3 +3,5 @@ numpy
 scipy
 matplotlib
 ipykernel
+yfinance
+pandas-datareader
